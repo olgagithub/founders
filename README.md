@@ -1,6 +1,2 @@
 founders
 ========
-
-founders + coders one 
-
-
